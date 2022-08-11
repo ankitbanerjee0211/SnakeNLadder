@@ -18,7 +18,7 @@
   <li> Run the .jar file. </li>
 </ol>
     
-### All the seperate class files are also included.
+### All the seperate class files are included.
 
 <br>
 
