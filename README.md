@@ -7,7 +7,7 @@
   <li> Run the .jar file </li>
 </ol>
     
-## If Want to See the Functionality, Please unzip the .jar file within the same folder
+### If want to see the full modular code -> Please unzip the .jar file within the same folder.
 
 ## Here are Some Screenshots ->
 
