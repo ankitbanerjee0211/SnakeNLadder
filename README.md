@@ -1,10 +1,11 @@
 # SnakeNLadder
 
 ## Please Try this Game
-    <ol>
-      <li> Download or Clone the folder </li>
-      <li> Run the .jar file </li>
-    </ol>
+
+<ol>
+  <li> Download or Clone the folder </li>
+  <li> Run the .jar file </li>
+</ol>
     
 ## If Want to See the Functionality, Please unzip the .jar file within the same folder
 
