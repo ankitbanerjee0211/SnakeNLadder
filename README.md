@@ -18,7 +18,7 @@
   <li> Run the .jar file. </li>
 </ol>
     
-### If want to see the full modular code -> Please unzip the .jar file within the same folder.
+### All the seperate class files are also included.
 
 <br>
 
@@ -26,14 +26,15 @@
 
 <br>
 
-<div style="display: flex; align-items: center; justify-contents: center;">
-  <img src="Snaps/Game Snap.png" style="height: 380px">
-  <br>
-  <img src="Snaps/Game Snap 2.png" style="height: 380px">
-  <br>
-  <img src="Snaps/Game Snap 3.png" style="height: 380px">
-  <br>
-  <img src="Snaps/Game Snap 4.png" style="height: 380px">
-</div>
+<img src="Snaps/Game Snap.png" style="height: 380px">
+<br>
+
+<img src="Snaps/Game Snap 2.png" style="height: 380px">
+<br>
+
+<img src="Snaps/Game Snap 3.png" style="height: 380px">
+<br>
+
+<img src="Snaps/Game Snap 4.png" style="height: 380px">
 
 <br>
