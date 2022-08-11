@@ -26,13 +26,13 @@
 
 <br>
 
-<div style="display: flex; align-items: center; justify-contents: center; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-contents: center;">
   <img src="Snaps/Game Snap.png" style="height: 380px">
-
+  <br>
   <img src="Snaps/Game Snap 2.png" style="height: 380px">
-
+  <br>
   <img src="Snaps/Game Snap 3.png" style="height: 380px">
-
+  <br>
   <img src="Snaps/Game Snap 4.png" style="height: 380px">
 </div>
 
