@@ -26,7 +26,7 @@
 
 <br>
 
-<div>
+<div style="display: flex; align-items: center; justify-contents: center; flex-wrap: wrap;">
   <img src="Snaps/Game Snap.png" style="height: 380px">
 
   <img src="Snaps/Game Snap 2.png" style="height: 380px">
